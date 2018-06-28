@@ -7,4 +7,7 @@ Last Updated: 6-28-2018
   <li>
     Playing card detection: https://www.youtube.com/watch?v=pnntrewH0xg&feature=youtu.be
   </li>
+  <li>
+    Construction monitoring: https://www.youtube.com/watch?v=IwvhdfvaJNg
+  </li>
 </ul>
