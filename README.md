@@ -10,4 +10,7 @@ Last Updated: 6-28-2018
   <li>
     Construction monitoring: https://www.youtube.com/watch?v=IwvhdfvaJNg
   </li>
+  <li>
+    Gaze tracking UI from smartphone: https://www.linkedin.com/feed/update/urn:li:activity:6417734120377499648
+  </li>
 </ul>
