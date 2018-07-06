@@ -1,7 +1,7 @@
 # Interesting_Computer_Vision_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 6-28-2018
+Last Updated: 7-6-2018
 
 <ul>
   <li>
@@ -12,5 +12,8 @@ Last Updated: 6-28-2018
   </li>
   <li>
     Gaze tracking UI from smartphone: https://www.linkedin.com/feed/update/urn:li:activity:6417734120377499648
+  </li>
+  <li>
+    Computer vision controlled robot: https://www.reddit.com/r/augmentedreality/comments/8vp6xg/little_robot_running_vuforia_anyone_have_other/
   </li>
 </ul>
