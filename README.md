@@ -1,7 +1,7 @@
 # Interesting_Computer_Vision_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 7-6-2018
+Last Updated: 9-20-2018
 
 <ul>
   <li>
@@ -15,5 +15,11 @@ Last Updated: 7-6-2018
   </li>
   <li>
     Computer vision controlled robot: https://www.reddit.com/r/augmentedreality/comments/8vp6xg/little_robot_running_vuforia_anyone_have_other/
+  </li>
+  <li>
+    3D face created from 2D photo: http://cvl-demos.cs.nott.ac.uk/vrn/
+  </li>
+  <li>
+    NBA2K - scan face to create video game character: https://gaming.youtube.com/watch?v=_z-PpuYcTkc
   </li>
 </ul>
