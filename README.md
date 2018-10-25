@@ -25,4 +25,7 @@ Last Updated: 10-16-2018
   <li>
     Make3d - convert 2D images into 3D: http://make3d.cs.cornell.edu/
   </li>
+  <li>
+    Google Visual Positioning System: https://youtu.be/-8mfQFGNdr8?t=60
+  </li>
 </ul>
