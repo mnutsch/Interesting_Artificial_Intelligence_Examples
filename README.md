@@ -31,4 +31,7 @@ Last Updated: 10-29-2018
   <li>
     Examples of SLAM: https://www.kudan.eu/kudan-news/b2-evaluate-slam-accuracy/
   </li>
+  <li>
+    Understanding AR Kit Tracking and Detection: https://developer.apple.com/videos/play/wwdc2018/610/
+  </li>
 </ul>
