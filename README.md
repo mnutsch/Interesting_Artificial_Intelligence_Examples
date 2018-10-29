@@ -1,7 +1,7 @@
 # Interesting_Computer_Vision_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 10-16-2018
+Last Updated: 10-29-2018
 
 <ul>
   <li>
@@ -27,5 +27,8 @@ Last Updated: 10-16-2018
   </li>
   <li>
     Google Visual Positioning System: https://youtu.be/-8mfQFGNdr8?t=60
+  </li>
+  <li>
+    Examples of SLAM: https://www.kudan.eu/kudan-news/b2-evaluate-slam-accuracy/
   </li>
 </ul>
