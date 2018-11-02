@@ -1,7 +1,7 @@
 # Interesting_Computer_Vision_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 10-29-2018
+Last Updated: 11-2-2018
 
 <ul>
   <li>
