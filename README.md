@@ -34,4 +34,10 @@ Last Updated: 10-29-2018
   <li>
     Understanding AR Kit Tracking and Detection: https://developer.apple.com/videos/play/wwdc2018/610/
   </li>
+  <li>
+    OpenPose - library for recognizing human posture: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  </li>
+  <li>
+    AR Costumes from Disney: https://www.vrfocus.com/2018/11/disney-developing-ar-costumes-for-theme-park-visitors/amp/
+  </li>
 </ul>
