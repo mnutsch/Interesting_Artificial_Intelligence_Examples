@@ -1,7 +1,7 @@
 # Interesting_Computer_Vision_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 11-2-2018
+Last Updated: 11-14-2018
 
 <ul>
   <li>
@@ -39,5 +39,8 @@ Last Updated: 11-2-2018
   </li>
   <li>
     AR Costumes from Disney: https://www.vrfocus.com/2018/11/disney-developing-ar-costumes-for-theme-park-visitors/amp/
+  </li>
+  <li>
+    Tutorial on Real Time Object Recognition from Video Feeds: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
   </li>
 </ul>
