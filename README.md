@@ -1,7 +1,7 @@
-# Interesting_Computer_Vision_Examples
+# Interesting_Artificial_Intelligence_Examples
 This is a list of links to interesting videos showing computer vision.
 
-Last Updated: 11-14-2018
+Last Updated: 9-5-2019
 
 <ul>
   <li>
@@ -42,5 +42,11 @@ Last Updated: 11-14-2018
   </li>
   <li>
     Tutorial on Real Time Object Recognition from Video Feeds: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+  </li>
+    Riding in a Self Driving Car: https://www.youtube.com/watch?v=8_i2jzJN06Y&feature=youtu.be
+  <li>
+  </li>
+  <li>
+    A.I. Learns to Park: https://www.youtube.com/watch?v=VMp6pq6_QjI
   </li>
 </ul>
