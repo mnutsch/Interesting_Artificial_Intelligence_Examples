@@ -43,8 +43,8 @@ Last Updated: 9-5-2019
   <li>
     Tutorial on Real Time Object Recognition from Video Feeds: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
   </li>
-    Riding in a Self Driving Car: https://www.youtube.com/watch?v=8_i2jzJN06Y&feature=youtu.be
   <li>
+    Riding in a Self Driving Car: https://www.youtube.com/watch?v=8_i2jzJN06Y&feature=youtu.be
   </li>
   <li>
     A.I. Learns to Park: https://www.youtube.com/watch?v=VMp6pq6_QjI
